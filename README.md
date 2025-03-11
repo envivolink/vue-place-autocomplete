@@ -131,3 +131,4 @@ is called automatically uses any of the other `npm run release-{type}` commands.
 
 Rund the uglify library over the compiled source to create a
 `{package-name}.min.js` file that Gzip and minifies that library.
+
